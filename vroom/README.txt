@@ -1,7 +1,7 @@
 VROOM WEB SITE
 VROOM is a web site maked by Moussaoui Mohammed,wich you can follow our virtual reality tools , images videos and films with 3D technique.
 for the project we worked with :
-php : for controlling empty text-boxes as required;
+Simple php code : for controlling empty text-boxes as required;
 bootstrap : for making our web site more flexibale for any device-width;
 css and java script : for positioning our images and some animations;
 for folder struct:
